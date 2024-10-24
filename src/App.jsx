@@ -3,7 +3,7 @@ import CountdownAlert from "./components/CountdownAlert";
 import Hero from "./components/Hero";
 import Introduction from "./components/Introduction";
 import AboutAuthor from "./components/AboutAuthor";
-import KeyBenefits from "./components/keyBenefits";
+import KeyBenefits from "./components/KeyBenefits";
 import AnimatedStats from "./components/AnimatedStats";
 import WebinarRegistration from "./components/WebinarRegistration";
 import Reviews from "./components/Reviews";
