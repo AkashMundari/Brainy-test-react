@@ -1,6 +1,6 @@
 import "./App.css";
 import CountdownAlert from "./components/CountdownAlert";
-import Hero from "./components/hero";
+import Hero from "./components/Hero";
 import Introduction from "./components/Introduction";
 import AboutAuthor from "./components/AboutAuthor";
 import KeyBenefits from "./components/keyBenefits";
