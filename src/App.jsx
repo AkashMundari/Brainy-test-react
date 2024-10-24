@@ -9,11 +9,10 @@ import WebinarRegistration from "./components/WebinarRegistration";
 import Reviews from "./components/Reviews";
 import WhyRegister from "./components/WhyRegister";
 import Footer from "./components/Footer";
-import { BrowserRouter } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
       <CountdownAlert />
       <Hero />
       <Introduction />
@@ -24,7 +23,7 @@ function App() {
       <WebinarRegistration />
       <WhyRegister />
       <Footer />
-    </BrowserRouter>
+    </>
   );
 }
 
